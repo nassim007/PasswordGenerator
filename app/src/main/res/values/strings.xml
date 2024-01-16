@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="aantal_karakter">Aantal karakter</string>
+    <string name="upper">A-Z</string>
+    <string name="lower">a-z</string>
+    <string name="numbers">0-9</string>
+    <string name="karakter">!@#$%"&amp;*</string>
+    <string name="copy">Copy</string>
+    <string name="genereer_wachtwoord">Genereer wachtwoord</string>
+    <string name="click_genereer">Genereer wachtwoord</string>
+</resources>
